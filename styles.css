@@ -1,0 +1,13 @@
+body {
+    background:black;
+}
+#post {
+    background:white;
+    width:45%;
+    display: center;
+    padding:8px;
+}
+header {
+    background:white;
+    flex-direction: left;
+}
